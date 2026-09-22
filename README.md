@@ -1,7 +1,11 @@
-# Hey, I'm Filipe! 󱠡 [![](https://komarev.com/ghpvc/?username=filz0r&style=for-the-badge&color=green)](https://visitcount.itsvg.in)
+# Hey, I'm Filipe! 👋 [![](https://komarev.com/ghpvc/?username=filz0r&style=for-the-badge&color=green)](https://visitcount.itsvg.in)
 
-## About me:
-
+## 📌 About me:
+- I've been dabbling Computer Science since 2019, teaching myself about Software Development, Networking and Linux Systems. Currently I'm learning Go, using the [boot.dev](https://www.boot.dev/u/filz0r) platform.
+- Most of my experience in Software Development is in JavaScript and TypeScript, but I've also written a [Bash clone](https://github.com/filz0r/minishell) in C and a simple [IRC server](https://github.com/filz0r/ft_irc) in C++.
+- I'm a 42 Lisboa Graduate, a school where I learnt about Memory Management and UNIX system programing, using mostly C and C++.
+- I run a small Homelab where I host services such as Pi-hole, Jellyfin, Home Assistant, Portainer, among others, in a Docker Swarm Cluster all using old computers that I reconditioned and upgraded over the years.
+- I'm currently working on [jat](https://github.com/filz0r/jat) a Go + React Full Stack tool, built with the goal of having a self hosted platform to help assisting with tracking job applications for job hunters.
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
