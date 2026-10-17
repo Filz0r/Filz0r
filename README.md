@@ -1,4 +1,4 @@
-# Hey, I'm Filipe! 👋 [![](https://komarev.com/ghpvc/?username=filz0r&style=for-the-badge&color=green)](https://visitcount.itsvg.in)
+# Hey, I'm Filipe! 👋 [![](https://visitcount.itsvg.in/api?id=filz0r&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## 📌 About me:
 - I've been dabbling Computer Science since 2019, teaching myself about Software Development, Networking and Linux Systems. Currently I'm learning Go, using the [boot.dev](https://www.boot.dev/u/filz0r) platform.
