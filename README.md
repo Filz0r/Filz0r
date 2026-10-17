@@ -56,7 +56,6 @@
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) 
 ---
 ## 📊 Stats:
-[![fparreir's 42 stats](https://badge.mediaplus.ma/binary/fparreir)](https://github.com/oakoudad/badge42)
 <img src="https://api.boot.dev/v1/users/public/d734b487-fb23-4204-9241-381ee9575538/thumbnail" height="275" alt="Filipe's Boot.dev profile card 🧙‍♂️" />
 ![](https://github-readme-stats.shion.dev/api?username=filz0r&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=filz0r&theme=gruvbox&hide_border=false)<br/>
