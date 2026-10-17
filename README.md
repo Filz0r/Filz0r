@@ -1,5 +1,5 @@
 # Hey, I'm Filipe! 👋 
-[![](https://visitcount.itsvg.in/api?id=filz0r&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=filz0r&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
 
 ## 📌 About me:
 - I've been dabbling Computer Science since 2019, teaching myself about Software Development, Networking and Linux Systems. Currently I'm learning Go, using the [boot.dev](https://www.boot.dev/u/filz0r) platform.
@@ -56,11 +56,12 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) 
 ---
+
 ## 📊 Stats:
 <img src="https://api.boot.dev/v1/users/public/d734b487-fb23-4204-9241-381ee9575538/thumbnail" height="275" alt="Filipe's Boot.dev profile card 🧙‍♂️" />
-![](https://github-readme-stats.shion.dev/api?username=filz0r&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+<!--![](https://github-readme-stats.shion.dev/api?username=filz0r&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=filz0r&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=filz0r&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+-->
 
 
